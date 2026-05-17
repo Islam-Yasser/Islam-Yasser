@@ -29,7 +29,7 @@ Enterprise HR management platform on **.NET 9 Clean Architecture**
 → Role-based access with row-level security
 
 ### 🅿️ Smart Parking System
-**ABP Framework** modular monolith with EF Core and SQL Server
+**ABP Framework** modular monolith with EF Core and Postgresql
 → Dispenser management API with **FastEndpoints**
 → Swagger UI with separate documentation for internal vs. public APIs
 
